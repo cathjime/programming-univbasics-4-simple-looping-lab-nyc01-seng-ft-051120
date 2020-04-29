@@ -33,4 +33,5 @@ def return_string_array(array)
     new_arr << str 
     count += 1
   end 
+  new_arr
 end 
