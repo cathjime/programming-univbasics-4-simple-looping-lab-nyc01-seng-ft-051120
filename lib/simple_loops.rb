@@ -16,3 +16,7 @@ def loop_message_n_times(message, int)
     count += 1
   end
 end
+
+def output_array(array)
+  
+end
